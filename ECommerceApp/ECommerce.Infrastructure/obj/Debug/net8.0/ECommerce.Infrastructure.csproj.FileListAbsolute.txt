@@ -1,0 +1,15 @@
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.deps.json
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.dll
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.pdb
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.AssemblyInfo.cs
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerc.B0B31267.Up2Date
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.dll
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\refint\ECommerce.Infrastructure.dll
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.pdb
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ref\ECommerce.Infrastructure.dll
