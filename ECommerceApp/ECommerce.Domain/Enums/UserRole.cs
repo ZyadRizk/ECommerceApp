@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ECommerce.Application.Services
+namespace ECommerce.Domain.Enums
 {
-    internal class ProductService
+
+    public enum UserRole
     {
+        Admin,
+        Customer,
     }
+    
 }

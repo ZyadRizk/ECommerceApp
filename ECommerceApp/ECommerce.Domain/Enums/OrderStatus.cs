@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Domain.Enums
 {
-    internal class OrderStatus
+    public enum OrderStatus
     {
+       
+        Pending,
+        Processing,
+        Shipped,
+        Delivered,
+        Cancelled,
+        Returned
+        
     }
 }
