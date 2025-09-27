@@ -13,3 +13,8 @@ C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\
 C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\refint\ECommerce.Infrastructure.dll
 C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.pdb
 C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ref\ECommerce.Infrastructure.dll
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.sourcelink.json
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Infrastructure.runtimeconfig.json
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Application.dll
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net8.0\ECommerce.Application.pdb
+C:\zyad\backend\finalProject\FInalProject\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net8.0\ECommerce.Infrastructure.genruntimeconfig.cache

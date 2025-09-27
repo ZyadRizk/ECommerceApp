@@ -10,9 +10,13 @@ namespace ECommerce.Application.DTOs
     {
         public int Id { get; set; }
         public int UserId { get; set; }
+
+        public string ShippingAddress { get; set; }
+        public string PaymentMethod { get; set; }
+
         public List<OrderItemDto> Items { get; set; } = new();
         public decimal TotalAmount { get; set; }
-        public string Status { get; set; } = "Pending";
-        public DateTime CreatedAt { get; set; } 
+        public string Status { get; set; }
+        public DateTime OrderDate { get; set; }
     }
 }

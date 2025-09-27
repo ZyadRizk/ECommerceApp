@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Application.Interfaces
 {
-    internal interface IProductService
+    public interface IProductService
     {
         Task<ProductDto> AddProductAsync(ProductDto productDto);
-        Task<ProductDto> UpdateProductAsync(ProductDto productDto);
+        Task<ProductDto?> UpdateProductAsync(int id, ProductDto productDto);
         Task<bool> DeleteProductAsync(int id);
         Task<ProductDto?> GetByIdAsync(int id);
         Task<IEnumerable<ProductDto>> GetAllAsync();

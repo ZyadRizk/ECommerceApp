@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Application.Interfaces
 {
-    internal interface IUserService
+    public interface IUserService
     {
         Task<UserDto> RegisterAsync(UserDto userDto, string password);
         Task<UserDto?> LoginAsync(string username, string password);
         Task<UserDto?> GetByIdAsync(int id);
         Task<IEnumerable<UserDto>> GetAllAsync();
+        Task<bool> DeleteUserAsync(int id);
+
     }
 }

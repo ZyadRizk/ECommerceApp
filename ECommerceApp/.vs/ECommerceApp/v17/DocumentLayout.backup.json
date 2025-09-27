@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DF2D40C-B99F-4EE8-A828-C559890873CC}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\zyad\\backend\\finalproject\\finalproject\\ecommerceapp\\ecommerce.domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF2D40C-B99F-4EE8-A828-C559890873CC}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF2D40C-B99F-4EE8-A828-C559890873CC}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\zyad\\backend\\finalproject\\finalproject\\ecommerceapp\\ecommerce.domain\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF2D40C-B99F-4EE8-A828-C559890873CC}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF2D40C-B99F-4EE8-A828-C559890873CC}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\zyad\\backend\\finalproject\\finalproject\\ecommerceapp\\ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF2D40C-B99F-4EE8-A828-C559890873CC}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF2D40C-B99F-4EE8-A828-C559890873CC}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\zyad\\backend\\finalproject\\finalproject\\ecommerceapp\\ecommerce.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF2D40C-B99F-4EE8-A828-C559890873CC}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DF2D40C-B99F-4EE8-A828-C559890873CC}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\zyad\\backend\\finalproject\\finalproject\\ecommerceapp\\ecommerce.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DF2D40C-B99F-4EE8-A828-C559890873CC}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E2ED4A5-01FF-4C0F-AEA5-CDB2DC7F8387}|ECommerce.Api\\ECommerce.Api.csproj|c:\\zyad\\backend\\finalproject\\finalproject\\ecommerceapp\\ecommerce.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2ED4A5-01FF-4C0F-AEA5-CDB2DC7F8387}|ECommerce.Api\\ECommerce.Api.csproj|solutionrelative:ecommerce.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +14,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Domain\\Entities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\OrderItem.cs",
-              "ToolTip": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Domain\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "ECommerce.Domain\\Entities\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:23:58.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Domain\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "ECommerce.Domain\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Domain\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "ECommerce.Domain\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T11:22:10.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "ECommerce.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T22:54:57.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Domain\\Entities\\Orders.cs",
-              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Orders.cs",
-              "ToolTip": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Domain\\Entities\\Orders.cs",
-              "RelativeToolTip": "ECommerce.Domain\\Entities\\Orders.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T20:32:01.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Domain\\Entities\\Users.cs",
-              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Users.cs",
-              "ToolTip": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Domain\\Entities\\Users.cs",
-              "RelativeToolTip": "ECommerce.Domain\\Entities\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\zyad\\backend\\finalProject\\FInalProject\\ECommerceApp\\ECommerce.Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ECommerce.Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T20:32:18.75Z",
+              "WhenOpened": "2025-09-27T19:13:35.982Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
